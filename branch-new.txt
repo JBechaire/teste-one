@@ -1,0 +1,62 @@
+Comandos dentro gitbash
+
+git init  
+ enter
+
+git remote add origin https://github.com/JBechaire/teste-one.git 
+ enter 
+  
+git add. 
+ enter
+
+git commit -m
+enter
+
+git branch -m
+enter
+
+git push -u origin main
+enter
+
+
+Digite seu nome de usuário e senha do GitHub, se solicitado
+
+Faça login no GitHub, se necessário
+
+
+**Branch nova** dev
+
+git checkout -b nome_da_branch //enter
+
+Cria e muda para uma nova branch
+
+2
+
+git add . ou git add nome_do_arquivo  //enter
+
+
+Adiciona as alterações ao índice
+
+3
+
+git commit -m "Sua mensagem de commit" //enter
+
+
+Cria um commit com uma mensagem descritiva
+
+4
+
+git push origin nome_da_branch //enter
+
+
+Envia o código para o GitHub na nova branch
+
+5
+
+Digite seu nome de usuário e senha do GitHub, se solicitado
+
+Faça login no GitHub, se necessário
+
+6
+
+Verifique o GitHub   
